@@ -4,8 +4,7 @@ A Single Page Application (SPA) for user list management built with React, Redux
 
 ## 🚀 Live Demo
 
-**[Live Application URL]** - `https://user-list.vercel.app`
-**[Project GitHub URL]** - `https://github.com/Riyaz-Github-Acc/user-list`
+**[Live Application URL]** - `https://user-list-two-puce.vercel.app`
 
 ## ✨ Features
 
@@ -35,7 +34,7 @@ A Single Page Application (SPA) for user list management built with React, Redux
 1. **Clone the repository**
 
     ```bash
-    git clone `https://github.com/Riyaz-Github-Acc/user-list`
+    git clone https://github.com/Riyaz-Github-Acc/user-list.git
     cd react-user-management
     ```
 
@@ -127,7 +126,7 @@ npm test
 
 ## 🔧 Deployment
 
-The application is deployed at: **`https://user-list.vercel.app`**
+The application is deployed at: **`https://user-list-two-puce.vercel.app`**
 
 Build the application:
 
@@ -139,8 +138,10 @@ npm run build
 
 **Riyaz S**
 
+- Portfolio: https://riyazportfoliosite.netlify.app
 - GitHub: https://github.com/Riyaz-Github-Acc?tab=repositories
 - Email: riyazofficeid@gmail.com
+- Phone: 8148192503
 
 ---
 
